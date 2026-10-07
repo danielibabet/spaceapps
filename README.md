@@ -1,4 +1,4 @@
-﻿# Astronomy App - Andromeda Gigapixel Explorer
+# Astronomy App - Andromeda Gigapixel Explorer
 
 <p align="center">
   <img src="https://img.shields.io/badge/NASA_Space_Apps-2026-0B3D91?style=for-the-badge&logo=nasa&logoColor=white" alt="NASA Space Apps"/>
@@ -18,18 +18,18 @@ Full-stack TypeScript application developed for the **NASA Space Apps Challenge*
 
 ---
 
-## ⚡ Key Features
+## Key Features
 
-- 🔭 **OpenSeadragon Deep Zoom:** Smooth gigapixel navigation with touch, mouse, and keyboard controls.
-- 🌌 **Celestial RA/Dec Projection:** Gnomonic and equirectangular sky-to-image coordinate mapping.
-- 🤖 **AI Astronomical Assistant:** Real-time conversational context about selected stars, nebulae, and clusters.
-- 🛰️ **NASA Multi-Source Data:** Dynamic discovery integrating NASA Images API and MAST/Hubble archive data.
+- **OpenSeadragon Deep Zoom:** Smooth gigapixel navigation with touch, mouse, and keyboard controls.
+- **Celestial RA/Dec Projection:** Gnomonic and equirectangular sky-to-image coordinate mapping.
+- **AI Astronomical Assistant:** Real-time conversational context about selected stars, nebulae, and clusters.
+- **NASA Multi-Source Data:** Dynamic discovery integrating NASA Images API and MAST/Hubble archive data.
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
-`ash
+```bash
 # Install dependencies
 npm install
 
@@ -38,11 +38,11 @@ npm run dev
 
 # Build for production
 npm run build
-`
+```
 
 ---
 
-## ☕ Support & Author
+## Support & Author
 
 - **Daniel Ibáñez** - [@danielibabet](https://github.com/danielibabet)
 - If you find this project helpful, consider supporting: [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-yellow.svg?style=flat&logo=buy-me-a-coffee)](https://buymeacoffee.com/dibanezb)
